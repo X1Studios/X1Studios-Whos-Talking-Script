@@ -1,0 +1,8 @@
+Whos Talking - X1Studios (SheriffX1)
+
+This is a Drag and Drop Script
+
+1) Drag and drop file 'X1S-Talking' into resources.
+2) Start 'X1S-Talking' in server.cfg
+3) Restart your server.
+4) Enjoy.
